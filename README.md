@@ -1,2 +1,2 @@
 # Tenkaichi3CompetitivePGUpdate
-test
+Repository for Tenkaichi 3 update files
